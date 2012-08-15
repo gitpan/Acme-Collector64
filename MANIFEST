@@ -18,5 +18,6 @@ README
 t/00_compile.t
 t/01_base64.t
 t/02_japanese64.t
+t/03_emoji64.t
 xt/02_perlcritic.t
 xt/03_pod.t
